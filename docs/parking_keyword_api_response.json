@@ -1,0 +1,24 @@
+{
+  "documents": [
+    {
+      "address_name": "서울 중구 태평로1가 31",
+      "category_group_code": "PK6",
+      "category_group_name": "주차장",
+      "category_name": "교통,수송 > 교통시설 > 주차장",
+      "distance": "25",
+      "id": "501870156",
+      "phone": "010-8029-5806",
+      "place_name": "인천공항 주차장 주차대행",
+      "place_url": "http://place.map.kakao.com/501870156",
+      "road_address_name": "서울 중구 세종대로 110",
+      "x": "126.97782951352",
+      "y": "37.5663176913288"
+    }
+  ],
+  "meta": {
+    "is_end": false,
+    "pageable_count": 45,
+    "same_name": null,
+    "total_count": 106
+  }
+}
